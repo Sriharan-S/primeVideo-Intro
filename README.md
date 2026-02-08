@@ -30,6 +30,8 @@ The extension should now be installed and active!
     - **Enable Splash**: Turn the intro on or off.
     - **Play Every Visit**: If disabled, the intro plays only once per browser session.
 
+> **Note**: For the audio to play automatically without user interaction, you may need to adjust your browser's site settings. Go to the Amazon Prime Video site, click the lock icon in the address bar -> `Site settings` -> change **Sound** from `Automatic (default)` to `Allow`.
+
 ## Configuration
 
 You can customize the extension by editing the source files:
