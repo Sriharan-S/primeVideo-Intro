@@ -1,7 +1,9 @@
 # PrimeVideo-Intro
 
 A Chrome extension that plays a custom cinematic intro video when you visit Amazon Prime Video, adding a theatrical feel to your viewing experience.
-https://github.com/user-attachments/assets/8de0f57c-c933-4599-a7f3-ef247db47f4b
+
+<video src="https://github.com/user-attachments/assets/8de0f57c-c933-4599-a7f3-ef247db47f4b" controls></video>
+
 
 ## Features
 
